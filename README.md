@@ -1,10 +1,13 @@
 # DeepSort CPP Only OpenCV_DNN
+
 A refactoring version of [DeepSort_TensorRT](https://github.com/GesilaA/deepsort_tensorrt)
 
 Remove TensorRT from the repository and inference using OpenCV DNN
 
 # Requirements
+
 OpenCV>=4.2.0 With CUDA(Tested by 4.5.1)
+
 Eigen(Tested by 3.3.9)
 
 # Install
