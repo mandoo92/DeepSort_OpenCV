@@ -24,7 +24,7 @@ make
 # PreTrained Model
 reference [DeepSort_PyTorch](https://github.com/ZQPei/deep_sort_pytorch)
 
-I changed the model(ckpt.t7) downloaded from Github above to Onnx
+I converted the model(ckpt.t7) downloaded from Github above to Onnx
 
 [Google Drive Link(deepsort.onnx)](https://drive.google.com/file/d/1eTKZBaSilFZV2z6SjkJzQMrCg7wnaXco/view?usp=sharing)
 
