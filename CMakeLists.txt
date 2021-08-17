@@ -29,6 +29,7 @@ target_link_libraries(deepsort
 add_executable(demo ${PROJECT_SOURCE_DIR}/demo.cpp)
 target_link_libraries(demo 
     ${CUDA_LIBS} ${OpenCV_LIBS}
+    deepsort
 )
 
 
